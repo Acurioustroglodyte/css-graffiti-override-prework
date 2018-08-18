@@ -16,7 +16,7 @@ div#wall div#tag-4 {
   display: none;
 }
 
-div#wall div:nth-child(5) div#tag-5{
+div#wall div:nth-child(5) {
   display: none;
 }
 
