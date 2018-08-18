@@ -8,7 +8,7 @@ div#wall div#tag-2 {
   display: none;
 }
 
-div#wall div:last-child {
+div#wall div#tag-3.slick.wicked {
   display:none;
 }
 
@@ -20,6 +20,10 @@ div#wall div:nth-child(5) {
   display: none;
 }
 
- div#wall div:nth-child(6) div:first-child div#tag-7.slick {
+div#wall div.parent div:last-child > div#tag-6:first-child {
+  display: none;
+}
+
+body div#wall div.parent div:first-child > div#tag-7.slick {
   display: none;
 }
