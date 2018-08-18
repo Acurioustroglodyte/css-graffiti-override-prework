@@ -16,11 +16,11 @@ div#wall div#tag-4 {
   display: none;
 }
 
-div#wall div:nth-child(5) {
+div#wall div:nth-child() {
   display: none;
 }
 
-div#wall div:nth-child(6) div:last-child div#tag-6
+div#wall div.parent:nth-child(6) div:last-child div#tag-6
 
  div#wall div:nth-child(6) div:first-child div.slick[id="tag-7"] {
   display: none;
