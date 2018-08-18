@@ -20,7 +20,9 @@ div#wall div:nth-child(5) {
   display: none;
 }
 
-div#wall div:nth-child(6) 
+div#wall div:nth-child(6) {
+  display: none;
+}
 
  div#wall div:nth-child(6) div:first-child div.slick[id="tag-7"] {
   display: none;
